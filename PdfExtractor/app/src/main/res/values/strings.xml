@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pdf Extractor</string>
+
+    <string name="permission_needed">Permission Required</string>
+    <string name="permission_message">Allow to proceed</string>
+    <string name="allow">Allow</string>
+    <string name="cancel">Cancel</string>
+    <string name="here_is_my_pdf_file">Here is my PDF File</string>
+    <string name="feb_00_2000_0mb">Feb 00, 2000 – 0MB</string>
+    <string name="sort_by_date">Sort by Date</string>
+    <string name="sort_by_name">Sort by Name</string>
+    <string name="sort_by_size">Sort by Size</string>
+</resources>
